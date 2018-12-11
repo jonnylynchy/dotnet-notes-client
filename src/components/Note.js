@@ -1,5 +1,5 @@
 import React, { PureComponent } from 'react';
-import { Card, CardText, CardBody, NavLink, Input } from 'reactstrap';
+import { Card, CardText, CardBody, Input } from 'reactstrap';
 
 class Note extends PureComponent {
     state = {
